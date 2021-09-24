@@ -1,0 +1,5 @@
+name: Period System
+main: com.windows.Period.Period
+version: 1.0
+commands:
+  기간:
